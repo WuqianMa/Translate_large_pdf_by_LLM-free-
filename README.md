@@ -112,7 +112,7 @@ source ~/.zshrc
 
 - To explore feminist and spiritual wisdom across languages  
 - To practice using AI for meaningful, low-cost cultural projects  
-- To provide a clear and reproducible way to translate full books using free tools  
+- To provide a free way to translate full books  
 
 ---
 
@@ -120,4 +120,4 @@ source ~/.zshrc
 
 This translation is intended for **private learning and cultural research only**.
 
-The original book is protected by copyright. Do **not** share or publish the full translated version without permission from the authors or publisher.
+The original book is protected by copyright.
