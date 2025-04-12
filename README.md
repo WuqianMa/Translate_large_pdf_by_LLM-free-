@@ -1,4 +1,4 @@
-# The Great Cosmic Mother – AI Chinese Translation Project
+# The Great Cosmic Mother (伟大的宇宙母亲)– AI Chinese Translation Project
 
 ## 📖 What is this?
 
